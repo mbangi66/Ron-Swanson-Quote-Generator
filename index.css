@@ -1,0 +1,33 @@
+body {
+ font-family: 'Open Sans', sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: ;
+  width: 100%;
+  padding: 0 10px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+button {
+	justify-content: space-between;
+	cursor: pointer;
+	padding: 5px;
+	width: 150px;
+	border-radius: 15px;
+	border-color: #80ffd4;
+	background-color: #fff;
+	text-decoration-style: none;
+}
